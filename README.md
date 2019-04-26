@@ -10,7 +10,7 @@ npm run start
 npm run build
 ```
 # 作用
-模板中已包含了jQuery的的的的的的的，引导和的的的的的的的的WebPack，可用于多页面应用的快速开发
+模板中包含 webpack, Bootstrap 和 jQuery, 可用于多页面应用的快速开发。
 
 # 模板使用方法
 1. src/pages 文件夹下新增页面
