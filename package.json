@@ -1,7 +1,7 @@
 {
-  "name": "react",
+  "name": "webpack-bootstrap",
   "version": "1.0.0",
-  "description": "react mock",
+  "description": "webpack BootStrap jQuery",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,12 +10,12 @@
     "start": "webpack-dev-server --open --config webpack.dev.js"
   },
   "keywords": [
-    "Bootstrap",
     "webpack",
-    "react",
-    "mock"
+    "Bootstrap",
+    "jQuery",
+    "template"
   ],
-  "author": "",
+  "author": "unamelcs",
   "license": "ISC",
   "devDependencies": {
     "clean-webpack-plugin": "^2.0.1",
